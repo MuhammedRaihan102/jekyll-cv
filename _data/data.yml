@@ -1,25 +1,26 @@
-name: John Doe
+name: Muhammed Raihan
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: muhammeds.raihan102@gmail.com
+  github: MuhammedRaihan102
+  linkedin: Muhammed Raihan
+  phone: +91-7339643159
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Tamil
+  - idiom: Hindi
+  - idiom: Urdu
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: B.Tech Artificial Intelligence and Data Science
+    time: 2022-2026
+    university: St. Joseph Institute of Technology
 
   - degree: BSc in Computer Science
     time: 2010-2014
